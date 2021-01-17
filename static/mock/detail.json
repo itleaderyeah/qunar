@@ -1,0 +1,55 @@
+{
+  "ret": true,
+  "data": {
+    "sightName": "大明山(AAAA景区)",
+    "bannerImg": "http://img1.qunarzz.com/sight/p0/2005/94/94ea633e639c89d0a3.water.jpg_200x200_c619a64a.jpg",
+    "gallaryImgs": ["https://img1.qunarzz.com/sight/p0/1812/30/308fce51111d148fa3.img.jpg_600x330_72e318a7.jpg",
+    "https://img1.qunarzz.com/sight/p0/1807/26/269e0ea49ac0c512a3.img.jpg_600x330_ff054501.jpg"],
+    "categoryList": [{
+        "title": "成人票",
+        "children": [
+        {
+          "title": "成人三馆联票",
+          "children": [{
+            "title": "成人三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "成人五馆联票"
+          }]
+      }, 
+      {
+        "title": "儿童票",
+        "children": [{
+          "title": "儿童三馆联票",
+          "children": [{
+            "title": "儿童三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "儿童五馆联票"
+        }]
+      },
+      {
+        "title": "学生票",
+        "children": [{
+          "title": "学生三馆联票",
+          "children": [{
+            "title": "学生三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "学生五馆联票"
+        }]
+      },
+      {
+        "title": "特惠票",
+        "children": [{
+          "title": "特惠三馆联票",
+          "children": [{
+            "title": "特惠三馆联票 - 某一连锁店销售"
+          }]
+        },{
+          "title": "特惠五馆联票"
+        }]
+      }
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+        {"id":"0001","imgUrl":"http://img1.qunarzz.com/sight/p0/1604/e3/e31e236ddd71e31b90.water.jpg_200x200_74f5a57c.jpg"},
+        {"id":"0002","imgUrl":"http://img1.qunarzz.com/sight/p0/1603/87/87146cf32fa8635e90.water.png_200x200_5a9bb741.png"},
+        {"id":"0003","imgUrl":"http://img1.qunarzz.com/sight/p0/1908/8d/8d1d29b9d3737ea0a3.img.jpg_200x200_01cd72f3.jpg"},
+        {"id":"0004","imgUrl":"http://img1.qunarzz.com/sight/p0/1412/f2/3ff99d92f10eda6bfc40db2f76e21b56.water.jpg_200x200_f3ebe47f.jpg"}
+    ],
+    "iconList": [
+        {"id":"0001","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/125678/35/5947/4868/5efbf28cEbf04a25a/e2bcc411170524f0.png.webp","desc": "景点门票"},
+        {"id":"0002","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/140012/8/1804/3641/5efbf318E38bd5dad/0db99d859ab16ce9.png.webp","desc": "景点门票"},
+        {"id":"0003","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/129215/21/5978/3618/5efbf344Ebec23ae8/59712d986b10bb0a.png.webp","desc": "景点门票"},
+        {"id":"0004","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/116602/7/11200/3796/5efbf375Ebba41029/f07cc166f368fa05.png.webp","desc": "景点门票"},
+        {"id":"0005","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/125678/35/5947/4868/5efbf28cEbf04a25a/e2bcc411170524f0.png.webp","desc": "景点门票"},
+        {"id":"0006","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/140012/8/1804/3641/5efbf318E38bd5dad/0db99d859ab16ce9.png.webp","desc": "景点门票"},
+        {"id":"0007","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/129215/21/5978/3618/5efbf344Ebec23ae8/59712d986b10bb0a.png.webp","desc": "景点门票"},
+        {"id":"0008","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/116602/7/11200/3796/5efbf375Ebba41029/f07cc166f368fa05.png.webp","desc": "景点门票"},
+        {"id":"0009","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/125678/35/5947/4868/5efbf28cEbf04a25a/e2bcc411170524f0.png.webp","desc": "景点门票"},
+        {"id":"0010","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/140012/8/1804/3641/5efbf318E38bd5dad/0db99d859ab16ce9.png.webp","desc": "景点门票"},
+        {"id":"0011","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/129215/21/5978/3618/5efbf344Ebec23ae8/59712d986b10bb0a.png.webp","desc": "景点门票"},
+        {"id":"0012","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/116602/7/11200/3796/5efbf375Ebba41029/f07cc166f368fa05.png.webp","desc": "景点门票"},
+        {"id":"0013","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/125678/35/5947/4868/5efbf28cEbf04a25a/e2bcc411170524f0.png.webp","desc": "景点门票"},
+        {"id":"0014","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/140012/8/1804/3641/5efbf318E38bd5dad/0db99d859ab16ce9.png.webp","desc": "景点门票"},
+        {"id":"0015","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/129215/21/5978/3618/5efbf344Ebec23ae8/59712d986b10bb0a.png.webp","desc": "景点门票"},
+        {"id":"0016","imgUrl":"https://m.360buyimg.com/mobilecms/s120x120_jfs/t1/116602/7/11200/3796/5efbf375Ebba41029/f07cc166f368fa05.png.webp","desc": "景点门票"}
+      ],
+    "recommendList": [
+        {"id":"0001","imgUrl":"http://img1.qunarzz.com/sight/p0/2007/3a/3a1bc0c1f351496da3.img.jpg_250x250_ed15bfee.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0002","imgUrl":"http://img1.qunarzz.com/sight/p0/1812/30/308fce51111d148fa3.img.jpg_250x250_b17b66fe.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0003","imgUrl":"http://img1.qunarzz.com/sight/p0/2004/95/954da2e7bf8d1038a3.water.jpg_250x250_fb233d74.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0004","imgUrl":"http://img1.qunarzz.com/sight/p0/1409/04/8b2c38e18fb55ebce2e101f08ab1cd77.jpg_200x200_a0d3398e.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0005","imgUrl":"http://img1.qunarzz.com/sight/p22/201211/08/e9cc61781fc15d3993835fbb.jpg_200x200_3169b812.jpg","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0006","imgUrl":"http://img1.qunarzz.com/sight/p0/201406/24/e2a5766e6e81793b2b518a7a08812a4a.jpg_200x200_66ce1370.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"}
+      ],
+    "weekendList": [
+        {"id":"0001","imgUrl":"http://img1.qunarzz.com/sight/source/1811/52/b6776b49d27025.jpg_r_640x214_35ae205c.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0002","imgUrl":"http://img1.qunarzz.com/sight/source/1505/a3/9c9d78e925e8bc.jpg_r_640x214_74656d68.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0003","imgUrl":"http://img1.qunarzz.com/sight/source/1505/4e/3e87ee62e59cdb.jpg_r_640x214_fe6cc902.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0004","imgUrl":"http://img1.qunarzz.com/sight/source/1510/c1/afe3ab32b3bc23.jpg_r_640x214_beb61760.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"},
+        {"id":"0005","imgUrl":"http://img1.qunarzz.com/sight/source/1505/9f/7d45cc38259e0.jpg_r_640x214_156f4299.jpg","title":"大连圣亚海洋世界","desc":"浪漫大连首站，浪漫的海洋主题乐园"}
+      ]
+  }
+}
