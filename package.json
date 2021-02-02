@@ -1,8 +1,8 @@
 {
-  "name": "travel",
+  "name": "dyapp",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Dell Lee",
+  "author": "Dell",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
@@ -11,16 +11,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
-    "babel-polyfill": "^6.26.0",
-    "better-scroll": "^1.8.1",
-    "fastclick": "^1.0.6",
-    "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
     "vue": "^2.5.2",
-    "vue-awesome-swiper": "^2.6.7",
+    "vue-awesome-swiper": "^3.1.3",
     "vue-router": "^3.0.1",
-    "vuex": "^3.0.1"
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
